@@ -1,0 +1,22 @@
+#caja1 {background-color: rgb(216, 144, 203);
+height: 200px;
+width: 200px;}
+
+#caja2 {background-color: beige;
+    height:200px;
+   width:200px;}
+
+#caja3 {background-color: rgb(145, 215, 210);
+    height:200px;
+   width:200px}
+
+#caja4 {background-color: rgb(47, 75, 154);
+    height:200px;
+    width:200px;
+} 
+#caja{background-color: aqua;
+    flex-direction: row-reverse;
+    align-items: center; }
+
+
+
